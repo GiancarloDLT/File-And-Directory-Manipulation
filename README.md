@@ -53,4 +53,23 @@ Project consists of a simple PowerShell script that walks the user through "zero
  <br/>
 <img src="https://i.imgur.com/WaosfcJ.png" height="80%" width="80%" alt="File And Directory Manipulation Question 5"/>
 
+<p align="left">
+6) Move (not copy) file file4 to directory “hello”:
+ <br>
+ <br/>
+<img src="https://i.imgur.com/D1GES3O.png" height="80%" width="80%" alt="File And Directory Manipulation Question 6"/>
+
+<p align="left">
+7) Delete file3 using rm command:
+ <br>
+ <br/>
+<img src="https://i.imgur.com/K93RYPf.png" height="80%" width="80%" alt="File And Directory Manipulation Question 7"/>
+
+
+<p align="left">
+8) Delete directory hello using rm command:
+ <br>
+ <br/>
+<img src="https://i.imgur.com/PpZtDBQ.png" height="80%" width="80%" alt="File And Directory Manipulation Question 8"/>
+<img src="https://i.imgur.com/YRQCx5V.png" height="80%" width="80%" alt="File And Directory Manipulation Question 8"/>
 
